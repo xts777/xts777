@@ -2,8 +2,7 @@
 - Hi, I’m @xts777
 - I am a web developer for TEDxKeioU [Web Site](https://www.tedxkeiou.com/)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xts777&theme=vue-dark&show_icons=true&layout=compact&count_private=true)](https://github.com/xts777/github-readme-stats&count_private=true)
-
+(https://github-readme-stats.vercel.app/api/top-langs?username=xts777&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=fff)
 
 <!---
 xts777/xts777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
