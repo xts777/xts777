@@ -2,7 +2,7 @@
 - Hi, I’m @xts777
 - I am a web developer for TEDxKeioU [Web Site](https://www.tedxkeiou.com/)
   
-# Stastics
+# information
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xts777&theme=github_dark" alt="GitHub Stats" />
 
 <div align="left">
