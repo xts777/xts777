@@ -5,9 +5,11 @@
 # information
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xts777&theme=github_dark" alt="GitHub Stats" />
 
+<!---
 <div align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=xts777&theme=dark" alt="GitHub Streak" />
 </div>
+--->
 
 # languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xts777&layout=compact&count_private=true&theme=github_dark)
